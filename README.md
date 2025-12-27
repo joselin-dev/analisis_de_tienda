@@ -1,4 +1,5 @@
 Análisis de Desempeño de Tiendas – Recomendación de Venta
+
 📌 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar el desempeño de cuatro tiendas comerciales con el fin de recomendar al Sr. Juan en cuál de ellas debería vender sus productos.
